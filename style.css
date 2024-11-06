@@ -32,7 +32,7 @@
         }
 
         nav {
-            margin-left: 600px;
+            margin-left: 613px;
 
             ul {
                 display: flex;
@@ -44,9 +44,9 @@
                 height: 26px;
             }
 
-            li {
+            a {
                 color: #5E607A;
-                cursor: pointer;
+                text-decoration: none;
             }
         }
     }
